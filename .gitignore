@@ -15,3 +15,10 @@
 .cxx
 local.properties
 /app/release
+
+# Python / testes
+.venv/
+.pytest_cache/
+__pycache__/
+reports/*
+!reports/.gitkeep
